@@ -7,3 +7,4 @@ This program essentially shows how to perform web crawling over a specified URL 
 ## Things to improve
 1. Time it takes to crawl -- how do I do these functions in parallel?
 2. Improving the actual visual of the graph
+3. Not all icons display sometimes 
